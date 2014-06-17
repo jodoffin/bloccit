@@ -31,6 +31,8 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.1.1'
 
 
+gem 'devise'
+
 gem 'faker'
 
 
