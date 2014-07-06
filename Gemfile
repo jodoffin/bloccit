@@ -35,6 +35,9 @@ gem 'devise'
 
 gem 'faker'
 
+gem 'devise'
+
+gem 'figaro'
 
 #adds dummy data 
 
