@@ -31,11 +31,13 @@ gem 'jquery-rails'
 gem 'bootstrap-sass', '~> 3.1.1'
 
 
+
 gem 'devise'
+ gem 'pundit'
 
 gem 'faker'
 
-gem 'devise'
+#gem 'devise'
 
 gem 'figaro'
 
